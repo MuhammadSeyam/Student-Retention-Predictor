@@ -15,7 +15,7 @@ The repository contains the following files:
    - Calculates new metrics like GPA, completion rates, financial ratios, and total earned hours.  
 
 2. **Columns_Dictionary.ipynb**  
-   - A reference notebook containing a dictionary describing each column.  
+   - A reference notebook containing a dictionary describing each column of the file **Student_Done.csv**.  
    - Explains the purpose of columns like `STUDENT IDENTIFIER`, `Major_Category`, `Need_Coverage_Ratio`, and academic metrics.  
    - Useful for understanding dataset structure and for analysis.  
 
